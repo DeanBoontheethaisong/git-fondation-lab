@@ -1,7 +1,7 @@
 # Git Foundation Lab
 
 A hands-on project for learning Git and GitHub fundamentals 
-as part of my IT Suoport and Network Support career portfolio.
+as part of my IT Support and Network Support career portfolio.
 
 ## Objectives
 
