@@ -1,7 +1,6 @@
 # Git Foundation Lab
 
-A hands-on project for learning Git and GitHub fundamentals 
-as part of my IT Support and Network Support career portfolio.
+I created a Git and GitHub learning project to practise documenting, tracking, and publishing work for my IT career portfolio. I added a .gitignore file so future clones share the same rules for excluding local and potentially sensitive files.
 
 ## Objectives
 
